@@ -8,7 +8,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 The analysis was performed using Python (Pandas), PostgreSQL (SQL), and Power BI to create a complete end-to-end data analytics workflow.
 
 # DataSet Used 
-<a href =" ">Dataset</a>
+<a href ="https://github.com/Manishjoshi66/Customer-Analysis-Dashboard/blob/main/customer_shopping_behavior.xlsx.csv">Dataset</a>
 <a href =" ">DashBoard</a>
 
 ## 📊 Dataset Summary
