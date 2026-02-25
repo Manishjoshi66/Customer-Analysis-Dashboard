@@ -114,3 +114,8 @@ PostgreSQL
 Power BI
 
 Jupyter Notebook
+
+
+## Dashboard
+<img width="703" height="502" alt="Screenshot 2026-02-24 153212" src="https://github.com/user-attachments/assets/53b7a324-7dea-4b74-b1f3-f607fe5f3d4b" /> Dashboard
+
